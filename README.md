@@ -1,67 +1,67 @@
-<h1 align="center">Hi, I'm Hambali Fitrianto 👋</h1>
-<h3 align="center">🌟 Web Programmer & Developer 🌟</h3>
+<div align="center" style="padding: 20px;">
 
-<p align="center">
-  🚀 Passionate about creating responsive, modern, and dynamic web applications.  
-  💼 Skilled in backend and frontend technologies.  
-  🎓 Graduate of Informatics Engineering, Universitas Trunojoyo Madura.
-</p>
+  <h1>Hi, I'm <strong>Hambali Fitrianto</strong> 👋</h1>
+  <h3 style="color: #6c757d;">🌟 Web Programmer & Developer 🌟</h3>
 
----
+  <p>
+    🚀 <em>Passionate about creating responsive, modern, and dynamic web applications.</em><br>
+    💼 <em>Specialized in backend and frontend technologies.</em><br>
+    🎓 <em>Graduate of Informatics Engineering, Universitas Trunojoyo Madura.</em>
+  </p>
 
-### 🛠️ **Technologies & Tools**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+</div>
 
 ---
 
-### 💼 **Get in Touch**
-
-<p align="center">
-  <a href="mailto:hambali.fitrianto01@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/hambali-fitrianto">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Hambali-Fitrianto">
-    <img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/capt_msf/">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://porto.hambalifitrianto.web.id/">
-    <img src="https://img.shields.io/badge/-Portfolio-24292E?style=for-the-badge&logo=internet-explorer&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+  <h2>🛠️ Technologies & Tools</h2>
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; padding-top: 15px;">
+    <span class="badge rounded-pill bg-primary text-white p-2">PHP</span>
+    <span class="badge rounded-pill bg-danger text-white p-2">Laravel</span>
+    <span class="badge rounded-pill bg-warning text-dark p-2">HTML</span>
+    <span class="badge rounded-pill bg-info text-white p-2">CSS</span>
+    <span class="badge rounded-pill bg-warning text-dark p-2">JavaScript</span>
+    <span class="badge rounded-pill bg-secondary text-white p-2">JQuery</span>
+    <span class="badge rounded-pill bg-primary text-white p-2">MySQL</span>
+    <span class="badge rounded-pill bg-secondary text-white p-2">PostgreSQL</span>
+    <span class="badge rounded-pill bg-dark text-white p-2">Git</span>
+    <span class="badge rounded-pill bg-dark text-white p-2">GitHub</span>
+  </div>
+</div>
 
 ---
 
-### 🌐 **Portfolio**
-
-✨ Check out my portfolio to explore my projects and learn more about me!  
-🔗 [Visit My Portfolio Website](https://porto.hambalifitrianto.web.id/)
-
----
-
-### 📊 **GitHub Stats**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hambali-Fitrianto&show_icons=true&theme=radical" alt="Hambali's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hambali-Fitrianto&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<div align="center">
+  <h2>📬 Get in Touch</h2>
+  <p>
+    <a href="mailto:hambali.fitrianto01@gmail.com" class="btn btn-danger" style="margin: 5px;">Email</a>
+    <a href="https://www.linkedin.com/in/hambali-fitrianto" class="btn btn-primary" style="margin: 5px;">LinkedIn</a>
+    <a href="https://github.com/Hambali-Fitrianto" class="btn btn-dark" style="margin: 5px;">GitHub</a>
+    <a href="https://www.instagram.com/capt_msf/" class="btn btn-warning" style="margin: 5px;">Instagram</a>
+    <a href="https://porto.hambalifitrianto.web.id/" class="btn btn-success" style="margin: 5px;">Portfolio</a>
+  </p>
+</div>
 
 ---
 
-© 2025 **Hambali Fitrianto**. All rights reserved.
+<div align="center">
+  <h2>🌐 Portfolio</h2>
+  <p>✨ Explore my projects and learn more about my work!</p>
+  <a href="https://porto.hambalifitrianto.web.id/" class="btn btn-outline-primary">Visit My Portfolio Website</a>
+</div>
+
+---
+
+<div align="center">
+  <h2>📊 GitHub Stats</h2>
+  <div style="display: flex; justify-content: center; flex-wrap: wrap;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Hambali-Fitrianto&show_icons=true&theme=radical" alt="GitHub Stats" style="margin: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hambali-Fitrianto&layout=compact&theme=radical" alt="Top Languages" style="margin: 10px;">
+  </div>
+</div>
+
+---
+
+<div align="center">
+  <p>© 2025 <strong>Hambali Fitrianto</strong>. All rights reserved.</p>
+</div>
