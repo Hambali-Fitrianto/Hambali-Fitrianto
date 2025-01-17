@@ -16,16 +16,16 @@
 <div align="center">
   <h2>🛠️ Technologies & Tools</h2>
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; padding-top: 15px;">
-    <span class="badge rounded-pill bg-primary text-white p-2">PHP</span>
-    <span class="badge rounded-pill bg-danger text-white p-2">Laravel</span>
-    <span class="badge rounded-pill bg-warning text-dark p-2">HTML</span>
-    <span class="badge rounded-pill bg-info text-white p-2">CSS</span>
-    <span class="badge rounded-pill bg-warning text-dark p-2">JavaScript</span>
-    <span class="badge rounded-pill bg-secondary text-white p-2">JQuery</span>
-    <span class="badge rounded-pill bg-primary text-white p-2">MySQL</span>
-    <span class="badge rounded-pill bg-secondary text-white p-2">PostgreSQL</span>
-    <span class="badge rounded-pill bg-dark text-white p-2">Git</span>
-    <span class="badge rounded-pill bg-dark text-white p-2">GitHub</span>
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+    <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/JQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="JQuery" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </div>
 </div>
 
@@ -34,11 +34,21 @@
 <div align="center">
   <h2>📬 Get in Touch</h2>
   <p>
-    <a href="mailto:hambali.fitrianto01@gmail.com" class="btn btn-danger" style="margin: 5px;">Email</a>
-    <a href="https://www.linkedin.com/in/hambali-fitrianto" class="btn btn-primary" style="margin: 5px;">LinkedIn</a>
-    <a href="https://github.com/Hambali-Fitrianto" class="btn btn-dark" style="margin: 5px;">GitHub</a>
-    <a href="https://www.instagram.com/capt_msf/" class="btn btn-warning" style="margin: 5px;">Instagram</a>
-    <a href="https://porto.hambalifitrianto.web.id/" class="btn btn-success" style="margin: 5px;">Portfolio</a>
+    <a href="mailto:hambali.fitrianto01@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://www.linkedin.com/in/hambali-fitrianto">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://github.com/Hambali-Fitrianto">
+      <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="https://www.instagram.com/capt_msf/">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>
+    <a href="https://porto.hambalifitrianto.web.id/">
+      <img src="https://img.shields.io/badge/Portfolio-24292E?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfolio" />
+    </a>
   </p>
 </div>
 
@@ -47,7 +57,9 @@
 <div align="center">
   <h2>🌐 Portfolio</h2>
   <p>✨ Explore my projects and learn more about my work!</p>
-  <a href="https://porto.hambalifitrianto.web.id/" class="btn btn-outline-primary">Visit My Portfolio Website</a>
+  <a href="https://porto.hambalifitrianto.web.id/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio%20Website-24292E?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Visit My Portfolio Website" />
+  </a>
 </div>
 
 ---
