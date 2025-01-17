@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Hambali Fitrianto 👋
 
-<!--
-**Hambali-Fitrianto/Hambali-Fitrianto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate software engineer, and I specialize in web development, machine learning, and open-source projects. Feel free to reach out to me via the links below:
 
-Here are some ideas to get you started:
+## 📍 Find me on:
+- [GitHub](https://github.com/Hambali-Fitrianto) - My GitHub Profile
+- [LinkedIn](https://www.linkedin.com/in/hambali-fitrianto) - Connect with me on LinkedIn
+- [Instagram](https://www.instagram.com/capt_msf/) - My Instagram
+- [Facebook](https://www.facebook.com/hambali.fitrianto) - Facebook Profile
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📧 Contact me:
+- [Email](mailto:hambali.fitrianto01@gmail.com) - Reach me via email
+
+## 🔧 Technologies & Tools:
+- **Languages:** Python, JavaScript, HTML, CSS
+- **Frameworks:** React, Node.js, Flask
+- **Tools:** Git, Docker, VSCode
+
+## 📈 GitHub Stats
+![Hambali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hambali-Fitrianto&show_icons=true&count_private=true&hide=prs&theme=radical)
+
+## 🔨 My Projects:
+- [Project 1](https://github.com/Hambali-Fitrianto/project1) - Description of Project 1
+- [Project 2](https://github.com/Hambali-Fitrianto/project2) - Description of Project 2
