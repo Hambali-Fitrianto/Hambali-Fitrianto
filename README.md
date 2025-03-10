@@ -58,7 +58,7 @@
   <h2>🌐 Portfolio</h2>
   <p>✨ Explore my projects and know more about my work!</p>
   <a href="https://porto.hambalifitrianto.web.id/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Kunjungi%20Situs%20Portofolio%20Saya-24292E?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Visit Portfolio Site" />
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio%20Website-24292E?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Visit Portfolio Site" />
   </a>
 </div>
 
