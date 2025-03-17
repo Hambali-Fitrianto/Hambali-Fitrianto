@@ -1,11 +1,10 @@
-<!-- Halo! Saya Hambali Fitrianto -->
 <div align="center">
-  
+
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&width=600&lines=Hello,+I+am+Hambali+Fitrianto+👋;Web+Programmer+|+Fullstack+Developer;Passionate+in+Coding+%26+Technology!;Welcome+to+My+GitHub+Profile!+🚀" alt="Typing SVG" />
   
-  <br>
-  
-  <h3 style="color: #6c757d;">🌟 Web Programmer | Developer 🌟</h3>
+  <br><br>
+
+  <h3>🌟 Web Programmer | Developer 🌟</h3>
   
   <p>
     🚀 <em>I am passionate about creating responsive, modern, and dynamic web applications.</em><br>
@@ -17,17 +16,16 @@
 
 ---
 
-## 🛠️ **Technology & Tools I Use**
 <div align="center">
+  <h2>🛠️ Technology & Tools</h2>
   <img src="https://skillicons.dev/icons?i=php,laravel,html,css,js,jquery,mysql,postgresql,git,github" />
 </div>
 
 ---
 
-## 📬 **Let's Connect!**
-🔥 Available for **freelance work, collaborations & open-source contributions!**  
-
 <div align="center">
+  <h2>📬 Let's Connect!</h2>
+  <p>🔥 Available for freelance work, collaborations & open-source contributions! 🔥</p>
   <a href="mailto:hambali.fitrianto01@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/hambali-fitrianto"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/Hambali-Fitrianto"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -37,31 +35,35 @@
 
 ---
 
-## 🌐 **Portfolio**
-✨ **Check out my latest projects!**  
-
 <div align="center">
-  <a href="https://porto.hambalifitrianto.web.id/" style="text-decoration: none;">
+  <h2>🌐 Portfolio</h2>
+  <p>✨ Check out my latest projects! ✨</p>
+  <a href="https://porto.hambalifitrianto.web.id/">
     <img src="https://img.shields.io/badge/Visit%20My%20Portfolio%20Website-24292E?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Visit Portfolio Site" />
   </a>
 </div>
 
 ---
 
-## 📊 **GitHub Stats**
 <div align="center">
+  <h2>📊 GitHub Stats</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=Hambali-Fitrianto&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br>
+  <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hambali-Fitrianto&theme=radical" alt="GitHub Streaks" />
-  <br>
+  <br><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hambali-Fitrianto&theme=radical" alt="GitHub Activity Graph" />
 </div>
 
 ---
 
-## 🚀 **Fun Fact & Motivation**
-💡 *"Coding is not just a job, it's a passion that builds the future!"*  
+<div align="center">
+  <h2>🚀 Fun Fact & Motivation</h2>
+  <p>💡 <em>"Coding is not just a job, it's a passion that builds the future!"</em> 💡</p>
+  <p>🔥 Let’s innovate together! 🚀</p>
+</div>
 
-🔥 **Let’s innovate together!** 🚀  
+---
 
-© 2025 **Hambali Fitrianto**. All rights reserved.  
+<div align="center">
+  <p>© 2025 <strong>Hambali Fitrianto</strong>. All rights reserved.</p>
+</div>
