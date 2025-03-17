@@ -1,11 +1,9 @@
 <div align="center">
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&width=600&lines=Hello,+I+am+Hambali+Fitrianto+👋;Web+Programmer+|+Fullstack+Developer;Passionate+in+Coding+%26+Technology!;Welcome+to+My+GitHub+Profile!+🚀" alt="Typing SVG" />
-  
+
   <br><br>
 
-  <h3>🌟 Web Programmer | Developer 🌟</h3>
-  
   <p>
     🚀 <em>I am passionate about creating responsive, modern, and dynamic web applications.</em><br>
     💼 <em>Specializing in backend & frontend integration.</em><br>
