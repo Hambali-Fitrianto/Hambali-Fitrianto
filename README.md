@@ -2,7 +2,7 @@
 
   <br>
 
-  <!-- Teks Animasi -->
+  <!-- Animated Typing Text -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hello,+I+am+Hambali+Fitrianto+👋;Web+Programmer+|+Fullstack+Developer;Passionate+in+Coding+%26+Technology!;Welcome+to+My+GitHub+Profile!+🚀" alt="Typing SVG" />
 
   <br><br>
@@ -74,3 +74,24 @@
 <div align="center">
   <p>© 2025 <strong>Hambali Fitrianto</strong>. All rights reserved.</p>
 </div>
+
+<style>
+  /* Add some animation effects */
+  h2 {
+    animation: fadeIn 1s ease-in-out;
+  }
+
+  p {
+    animation: slideIn 1s ease-in-out;
+  }
+
+  @keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+  }
+
+  @keyframes slideIn {
+    from { transform: translateY(20px); opacity: 0; }
+    to { transform: translateY(0); opacity: 1; }
+  }
+</style>
