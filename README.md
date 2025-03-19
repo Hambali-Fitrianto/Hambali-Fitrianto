@@ -7,7 +7,7 @@
 
   <br><br>
 
-  <p align="center">
+  <p align="center" style="animation: fadeIn 2s;">
     🚀 <em>I am passionate about creating responsive, modern, and dynamic web applications.</em><br>
     💼 <em>Specializing in backend & frontend integration.</em><br>
     🎓 <em>Graduate of Informatics Engineering, Trunojoyo University Madura.</em>
@@ -18,7 +18,7 @@
 ---
 
 <div align="center">
-  <h2>🛠️ Technology & Tools</h2>
+  <h2 style="animation: bounce 1s;">🛠️ Technology & Tools</h2>
   <p>
     <img src="https://skillicons.dev/icons?i=php,laravel,html,css,js,jquery,mysql,postgresql,git,github" />
   </p>
@@ -27,7 +27,7 @@
 ---
 
 <div align="center">
-  <h2>📬 Let's Connect!</h2>
+  <h2 style="animation: bounce 1s;">📬 Let's Connect!</h2>
   <p>🔥 Available for freelance work, collaborations & open-source contributions! 🔥</p>
   <p>
     <a href="mailto:hambali.fitrianto01@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -41,7 +41,7 @@
 ---
 
 <div align="center">
-  <h2>🌐 Portfolio</h2>
+  <h2 style="animation: bounce 1s;">🌐 Portfolio</h2>
   <p>✨ Check out my latest projects! ✨</p>
   <a href="https://porto.hambalifitrianto.web.id/">
     <img src="https://img.shields.io/badge/Visit%20My%20Portfolio%20Website-24292E?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Visit Portfolio Site" />
@@ -51,7 +51,7 @@
 ---
 
 <div align="center">
-  <h2>📊 GitHub Stats</h2>
+  <h2 style="animation: bounce 1s;">📊 GitHub Stats</h2>
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=Hambali-Fitrianto&show_icons=true&theme=radical" alt="GitHub Stats" />
     <br><br>
@@ -64,7 +64,7 @@
 ---
 
 <div align="center">
-  <h2>🚀 Fun Fact & Motivation</h2>
+  <h2 style="animation: bounce 1s;">🚀 Fun Fact & Motivation</h2>
   <p>💡 <em>"Coding is not just a job, it's a passion that builds the future!"</em> 💡</p>
   <p>🔥 Let’s innovate together! 🚀</p>
 </div>
@@ -77,21 +77,14 @@
 
 <style>
   /* Add some animation effects */
-  h2 {
-    animation: fadeIn 1s ease-in-out;
-  }
-
-  p {
-    animation: slideIn 1s ease-in-out;
-  }
-
   @keyframes fadeIn {
     from { opacity: 0; }
     to { opacity: 1; }
   }
 
-  @keyframes slideIn {
-    from { transform: translateY(20px); opacity: 0; }
-    to { transform: translateY(0); opacity: 1; }
+  @keyframes bounce {
+    0%, 20%, 50%, 80%, 100% { transform: translateY(0); }
+    40% { transform: translateY(-10px); }
+    60% { transform: translateY(-5px); }
   }
 </style>
