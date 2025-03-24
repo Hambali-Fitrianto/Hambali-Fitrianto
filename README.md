@@ -1,8 +1,5 @@
 <div align="center">
-
   <br>
-
-  <!-- Teks Animasi -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hello,+I+am+Hambali+Fitrianto+👋;Web+Programmer+|+Fullstack+Developer;Passionate+in+Coding+%26+Technology!;Welcome+to+My+GitHub+Profile!+🚀" alt="Typing SVG" />
 
   <br><br>
