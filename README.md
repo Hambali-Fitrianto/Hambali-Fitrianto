@@ -1,28 +1,21 @@
 <div align="center">
   <br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hello,+I+am+Hambali+Fitrianto+👋;Web+Programmer+|+Fullstack+Developer;Passionate+in+Coding+%26+Technology!;Welcome+to+My+GitHub+Profile!+🚀" alt="Typing SVG" />
-
   <br><br>
-
   <p align="center">
     🚀 <em>I am passionate about creating responsive, modern, and dynamic web applications.</em><br>
     💼 <em>Specializing in backend & frontend integration.</em><br>
     🎓 <em>Graduate of Informatics Engineering, Trunojoyo University Madura.</em>
   </p>
-
 </div>
-
 ---
-
 <div align="center">
   <h2>🛠️ Technology & Tools</h2>
   <p>
     <img src="https://skillicons.dev/icons?i=php,laravel,html,css,js,jquery,mysql,postgresql,git,github" />
   </p>
 </div>
-
 ---
-
 <div align="center">
   <h2>📬 Let's Connect!</h2>
   <p>🔥 Available for freelance work, collaborations & open-source contributions! 🔥</p>
@@ -34,9 +27,7 @@
     <a href="https://porto.hambalifitrianto.web.id/"><img src="https://img.shields.io/badge/Portfolio-24292E?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfolio" /></a>
   </p>
 </div>
-
 ---
-
 <div align="center">
   <h2>🌐 Portfolio</h2>
   <p>✨ Check out my latest projects! ✨</p>
@@ -44,9 +35,7 @@
     <img src="https://img.shields.io/badge/Visit%20My%20Portfolio%20Website-24292E?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Visit Portfolio Site" />
   </a>
 </div>
-
 ---
-
 <div align="center">
   <h2>📊 GitHub Stats</h2>
   <p>
@@ -57,17 +46,13 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hambali-Fitrianto&theme=radical" alt="GitHub Activity Graph" />
   </p>
 </div>
-
 ---
-
 <div align="center">
   <h2>🚀 Fun Fact & Motivation</h2>
   <p>💡 <em>"Coding is not just a job, it's a passion that builds the future!"</em> 💡</p>
   <p>🔥 Let’s innovate together! 🚀</p>
 </div>
-
 ---
-
 <div align="center">
   <p>© 2025 <strong>Hambali Fitrianto</strong>. All rights reserved.</p>
 </div>
